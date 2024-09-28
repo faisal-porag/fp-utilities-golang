@@ -1,0 +1,14 @@
+.env
+/.idea
+/bin
+main
+.vscode/
+*.exe
+
+/dbdata
+servers.json
+.vscode
+
+
+
+
